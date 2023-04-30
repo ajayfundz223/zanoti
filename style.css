@@ -1,0 +1,71 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&display=swap');
+
+header{
+    background-image: url(./assets/weight-stack\ 1.png);
+    height: 45vh;
+    background-size: cover;
+}
+a{
+    text-decoration: none !important;
+}
+
+.nav-link:hover{
+    color: blue !important;
+
+}
+body{
+    margin-top: 20%;
+}
+
+.grid-container{
+    max-width: 900px;
+}
+
+.life{
+width: 800px;
+left: 395px;
+top: 2358px;
+margin-left: 14%;
+}
+
+.giggs{
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    width: 10%;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.future{
+    width: 455px;
+    height: 324px;
+    border: 1px solid black;
+    padding: 6%;
+    background-color: gray;
+}
+
+.wizzy{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.sue{
+    border: 1px solid white;
+    width: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: white;
+    
+}
+
+.takeoff{
+    border: 1px solid black;
+    width: 22%;
+    background-color: black;
+    color: white;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    opacity: 0.8;
+}
