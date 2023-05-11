@@ -69,3 +69,88 @@ margin-left: 14%;
     padding-bottom: 2%;
     opacity: 0.8;
 }
+
+.riri{
+    border: 1px solid black;
+    background-color: gray;
+    color: white;
+    width: 25%;
+    text-align: center;
+}
+
+.dave{
+    border: 1px solid black;
+    background-color: gray;
+    color: white;
+    width: 25%;
+    text-align: center;
+}
+
+.scholes{
+    border: 1px solid black;
+    background-color: gray;
+    color: white;
+    width: 25%;
+    text-align: center;
+}
+
+.salah{
+    border: 1px solid black;
+    background-color: gray;
+    color: white;
+    width: 25%;
+    text-align: center;
+
+}
+/* Media Query */
+@media (max-width:678px){
+    footer{
+        width: 100%;
+    }
+    .grid-container{
+        width: 100%;
+
+    }
+    .dave{
+        width: 50%;
+        
+    }
+    .riri{
+        width: 50%;
+    }
+    .salah{
+        width: 50%;
+    }
+    .scholes{
+        width: 50%;
+    }
+    
+}
+
+@media (max-width:918px){
+    footer{
+        width: 100%;
+    }
+}
+
+@media (max-width:339px){
+    footer{
+        width: 100%;
+    }
+    .dave{
+        width: 50%;
+        
+    }
+    .riri{
+        width: 50%;
+    }
+    .salah{
+        width: 50%;
+    }
+    .scholes{
+        width: 50%;
+    }
+
+}
+
+
