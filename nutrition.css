@@ -4,7 +4,9 @@ header{
     background: url(./assets/Rectangle\ 44.png);
     height: 45vh;
 }
-
+a{
+    text-decoration: none !important;
+}
 .sue{
     border: 1px solid white;
     width: 10%;
@@ -25,5 +27,9 @@ header{
 }
 
 .tony{
+    text-decoration: none;
+}
+
+.holiday{
     text-decoration: none;
 }

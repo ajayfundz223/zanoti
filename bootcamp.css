@@ -6,6 +6,10 @@ header{
 
 }
 
+a{
+    text-decoration: none !important;
+}
+
 .sue{
     border: 1px solid white;
     width: 10%;
