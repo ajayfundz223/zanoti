@@ -109,7 +109,6 @@ margin-left: 14%;
     }
     .grid-container{
         width: 100%;
-
     }
     .dave{
         width: 50%;
@@ -124,6 +123,13 @@ margin-left: 14%;
     .scholes{
         width: 50%;
     }
+    .riverdale{
+        width: 50%;
+    }
+    .believe{
+        width: 50%;
+    }
+    
     
 }
 
@@ -131,6 +137,7 @@ margin-left: 14%;
     footer{
         width: 100%;
     }
+    
 }
 
 @media (max-width:339px){
@@ -148,6 +155,12 @@ margin-left: 14%;
         width: 50%;
     }
     .scholes{
+        width: 50%;
+    }
+    .riverdale{
+        width: 50%;
+    }
+    .believe{
         width: 50%;
     }
 
