@@ -104,7 +104,7 @@ margin-left: 14%;
 }
 /* Media Query */
 @media (max-width:678px){
-    footer{
+    section{
         width: 100%;
     }
     .grid-container{
@@ -129,19 +129,35 @@ margin-left: 14%;
     .believe{
         width: 50%;
     }
+    .sue{
+    border: 1px solid white;
+    width: 20%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: white;
+    }
+    .giggs{
+        border: 1px solid black;
+        background-color: black;
+        color: white;
+        width: 30%;
+        text-align: center;
+        padding-top: 1%;
+        padding-bottom: 1%;
+    }
     
     
 }
 
 @media (max-width:918px){
-    footer{
+    section{
         width: 100%;
     }
     
 }
 
 @media (max-width:339px){
-    footer{
+    section{
         width: 100%;
     }
     .dave{
@@ -163,6 +179,22 @@ margin-left: 14%;
     .believe{
         width: 50%;
     }
+    .sue{
+        border: 1px solid white;
+        width: 20%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        color: white;
+        }
+    .giggs{
+            border: 1px solid black;
+            background-color: black;
+            color: white;
+            width: 30%;
+            text-align: center;
+            padding-top: 1%;
+            padding-bottom: 1%;
+        }
 
 }
 

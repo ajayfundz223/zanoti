@@ -33,3 +33,19 @@ a{
 .holiday{
     text-decoration: none;
 }
+ /* Media Query */
+@media (max-width:678px){
+    .grid-container{
+        width: 100%;
+    }
+    .giggs{
+        border: 1px solid black;
+        background-color: black;
+        color: white;
+        width: 30%;
+        text-align: center;
+        padding-top: 1%;
+        padding-bottom: 1%;
+    }
+    
+}

@@ -3,54 +3,52 @@
 a{
 text-decoration: none !important;
 }
+header{
+    background-color: black;
+}
+.sue{
+    border: 1px solid white;
+    width: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: white;
+    }
 
 /* Media Query */
 @media (max-width:678px){
-    footer{
+    section{
         width: 100%;
     }
     .grid-container{
         width: 100%;
 
     }
-    .dave{
-        width: 50%;
-        
-    }
-    .riri{
-        width: 50%;
-    }
-    .salah{
-        width: 50%;
-    }
-    .scholes{
-        width: 50%;
-    }
+    .sue{
+        border: 1px solid white;
+        width: 20%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        color: white;
+        }
     
 }
 
 @media (max-width:918px){
-    footer{
+    section{
         width: 100%;
     }
 }
 
 @media (max-width:339px){
-    footer{
+    section{
         width: 100%;
     }
-    .dave{
-        width: 50%;
-        
-    }
-    .riri{
-        width: 50%;
-    }
-    .salah{
-        width: 50%;
-    }
-    .scholes{
-        width: 50%;
-    }
+    .sue{
+        border: 1px solid white;
+        width: 20%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        color: white;
+        }
 
 }
