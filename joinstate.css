@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&display=swap');
+
+header{
+    background-color: black;
+}
+
+.sue{
+    border: 1px solid white;
+    width: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: white;
+}
+
+.cocobunmi{
+    border: 1px;
+    width: 650px;
+    height: 281px;
+    background: linear-gradient(0deg, #F3F3F3, #F3F3F3),linear-gradient(0deg, #E2DFDF, #E2DFDF);
+
+
+}
+.savage{
+    border: 1px;
+    width: 650px;
+    height: 255px;
+    background: linear-gradient(0deg, #F3F3F3, #F3F3F3),linear-gradient(0deg, #E2DFDF, #E2DFDF);
+}
+.travis{
+    border: 1px;
+    width: 650px;
+    height: 255px;
+    background: linear-gradient(0deg, #F3F3F3, #F3F3F3),linear-gradient(0deg, #E2DFDF, #E2DFDF);
+}
+
+aside{
+    float: right;
+    top: 0%;
+    padding-bottom: 5%;
+}
+
+.wiz{
+    border: 1px solid;
+    width: 120px;
+    height: 40px;
+    background-color: dodgerblue;
+    color: white;
+    padding-top: 3%;
+}
+
+.joro{
+    width: 500px;
+    margin-left: 2.5%;
+    height: 152px;
+}
+
+.rima{
+    width: 114px;
+    height: 50px;
+}

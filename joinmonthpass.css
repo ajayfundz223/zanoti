@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&display=swap');
+
+header{
+    background-color: black;
+}
+
+.sue{
+    border: 1px solid white;
+    width: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: white;
+}
+
+.drake{
+    width: 900px;
+    height: 510px;
+    border: 1px;
+
+}
+
+aside{
+    float: left;
+    width: 286px;
+    height: 510px;
+    background-color: #4F91CD;
+
+}
+
+.solo{
+    margin-left: 20%;
+    font-family: 'Inter', sans-serif;
+    justify-content: space-between;
+}
+
+#breezy{
+    border: 2px dashed white;
+    width: 250px;
+    height: 245px;
+    margin-left: 5%;
+    padding-top: 3%;
+    color: #CECCCCE5;
+
+}
+
+#breezy .hookah{
+    color: white;
+}
+
+#breezy .tyga{
+    color: #CECCCCE5;
+}
+#breezy .nicki{
+    color: #FFFCB1;
+
+}
+.meek{
+    color: #FFFCB1; 
+}
+
+.trap{
+    color: #FFFCB1;
+    justify-content: center;
+    align-items: center;
+}
+hr{
+    color: white;
+    width: 85%;
+    margin-left: 3%;
+}
+.roddy{
+    float: right;
+    margin-right: 5%;
+}
+.cane{
+    border: 1px solid;
+    width: 15%;
+    height: 10%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 20px;
+    line-height: 24px;
+    float: right;
+    margin-right: 5%;
+    margin-top: 5%;
+    padding-bottom: 1%;
+    background-color:#4F91CD;
+    color: white;
+    border-radius: 7px;
+}
+.line{
+  height: 1px;
+  background-color: gray;
+  width: 95%;
+}
